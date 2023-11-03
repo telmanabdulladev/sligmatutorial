@@ -1,0 +1,20 @@
+
+<!DOCTYPE html> === HTML version
+
+<html> === Root Element
+
+<head> === Information about the page (meta, links, title)
+
+<title>Document</title> === page title 
+
+------meta links 
+
+</head>  
+
+<body> === what will be displayed on the page 
+
+---- page content 
+
+</body> 
+
+</html>
